@@ -1,0 +1,14 @@
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\dependencyInversion\dependencyInversion\bin\Debug\net7.0\dependencyInversion.exe
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\dependencyInversion\dependencyInversion\bin\Debug\net7.0\dependencyInversion.deps.json
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\dependencyInversion\dependencyInversion\bin\Debug\net7.0\dependencyInversion.runtimeconfig.json
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\dependencyInversion\dependencyInversion\bin\Debug\net7.0\dependencyInversion.dll
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\dependencyInversion\dependencyInversion\bin\Debug\net7.0\dependencyInversion.pdb
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\dependencyInversion\dependencyInversion\obj\Debug\net7.0\dependencyInversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\dependencyInversion\dependencyInversion\obj\Debug\net7.0\dependencyInversion.AssemblyInfoInputs.cache
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\dependencyInversion\dependencyInversion\obj\Debug\net7.0\dependencyInversion.AssemblyInfo.cs
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\dependencyInversion\dependencyInversion\obj\Debug\net7.0\dependencyInversion.csproj.CoreCompileInputs.cache
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\dependencyInversion\dependencyInversion\obj\Debug\net7.0\dependencyInversion.dll
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\dependencyInversion\dependencyInversion\obj\Debug\net7.0\refint\dependencyInversion.dll
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\dependencyInversion\dependencyInversion\obj\Debug\net7.0\dependencyInversion.pdb
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\dependencyInversion\dependencyInversion\obj\Debug\net7.0\dependencyInversion.genruntimeconfig.cache
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\dependencyInversion\dependencyInversion\obj\Debug\net7.0\ref\dependencyInversion.dll
